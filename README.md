@@ -1,8 +1,4 @@
-# shorts-annihilator
-Changes cancerous Youtube Shorts into a more pleasant format.
-
-
-# What is this:
+# shorts-annihilator:
 This is a very simple userscript that *automatically*(*) changes Youtube Shorts into regular videos, for your viewing pleasure.
 
 **BEFORE :**                             **AFTER :**
@@ -12,9 +8,11 @@ This is a very simple userscript that *automatically*(*) changes Youtube Shorts 
 
 
 
+# Installation
+Get the script through **Greasy Fork** [HERE](https://greasyfork.org/fr/scripts/501950-shorts-annihilator).
 
-# How to use:
-1) Install using your favourite Userscripts manager (Tampermonkey, Userscripts, etc...)
-2) Open any Youtube Short
-3) Refresh the page
-4) Congratulations, your brain rot has been healed.
+
+# How to use :
+1) Open any Youtube Short.
+2) Refresh the page.
+3) Congratulations, your brain rot has been healed.
