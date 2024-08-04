@@ -16,3 +16,5 @@ Get the script through **Greasy Fork** [HERE](https://greasyfork.org/fr/scripts/
 1) Open any Youtube Short.
 2) Refresh the page.
 3) Congratulations, your brain rot has been healed.
+
+Note: It appears that the script works **automatically** when you open a Short in a new tab!
